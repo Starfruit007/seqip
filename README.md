@@ -13,7 +13,7 @@ Pytorch implementation of paper:  **Sequential Indeterminate Probability Theory 
     > sh scripts/ETTh1.sh
 
 2. Run the abuse test. 
-    > python scripts/duplicate_csv.py
+    > python scripts/duplicate_csv.py  
     > sh scripts/ETTh1_duplicated.sh
 
 ## **Quick Results Check**
